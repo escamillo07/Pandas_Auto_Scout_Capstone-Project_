@@ -1,3 +1,1 @@
-# clarusway_odevler
-tum dersler burada
-gökhan  bu dosya sana... pulll   bakalım
+# pandas capstone project. prepared with orginal datas. contains almost entire pandas subjects.
